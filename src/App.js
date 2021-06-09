@@ -18,7 +18,7 @@ function App() {
   return (
     <Router>
       <Header />
-      <Route path="/" exact>
+      <Route exact path="/">
         <Hero />
         <ChooseYourMs />
         <Section2 />
