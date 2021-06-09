@@ -16,7 +16,7 @@ const GamePass = () => {
           Get your first 3 months Game Pass Ultimate membership for $1. Now
           includes EA Play. New subscribers only.
         </p>
-        <button className="mr-4 bg-white text-black py-2 px-5 hover:underline hover:bg-opacity-80">
+        <button className="mr-4 bg-green-600 text-white py-2 px-5 hover:bg-black">
           Join now
         </button>
         <button>Compare all plans</button>

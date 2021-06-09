@@ -7,7 +7,7 @@ const Footer = () => {
 
   return (
     <>
-      <footer className="bg-gray-200 px-8 py-4 md:grid grid-cols-2 xl:grid-cols-6 xl:pl-20">
+      <footer className="bg-blue-100 px-8 py-4 md:grid grid-cols-2 xl:grid-cols-6 xl:pl-20">
         {links.map((link) => {
           const { id, title, hrefs } = link;
 
@@ -28,7 +28,7 @@ const Footer = () => {
         })}
       </footer>
 
-      <div className="bg-gray-200 px-8 pb-4 md:flex items-center justify-between xl:px-20">
+      <div className="bg-blue-100 px-8 pb-4 md:flex items-center justify-between xl:px-20">
         <div className="flex items-center text-gray-600">
           <FaGlobe className="mr-3" />
           <p className="text-sm">English (United States)</p>

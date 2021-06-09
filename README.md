@@ -1,6 +1,6 @@
 # Dream Abode
 
-##A Luxary Properties Web Application
+## Luxary Properties Web Application
 
 ### The ultimate luxary properties E-commerce
 
@@ -17,3 +17,5 @@
   - Software soloutions details
   - Multi Software categories
   - Nav bar
+
+[Live Site](https://xenodochial-villani-1b2690.netlify.app/)
